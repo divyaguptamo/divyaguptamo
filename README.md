@@ -21,14 +21,6 @@ Concepts
 Object-Oriented Programming  
 Event Driven Programming  
 
-## 📊 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=divyaguptamo&show_icons=true&theme=tokyonight" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyaguptamo&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
 ## 🚀 Featured Projects
 
 ### Deaf-Blind Communicator
