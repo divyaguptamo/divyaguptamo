@@ -55,5 +55,5 @@ Tech: Python, Tkinter, OOP
 
 ## 📫 Connect with Me
 
-LinkedIn: https://linkedin.com/in/YOUR-ID  
+LinkedIn:https://www.linkedin.com/in/divyapes2024/
 Email: divyaguptamo@gmail.com
