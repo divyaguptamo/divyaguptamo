@@ -21,15 +21,11 @@ Concepts
 Object-Oriented Programming  
 Event Driven Programming  
 
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyaguptamo&layout=compact)
+## 📊 GitHub Stats
 
----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=divyaguptamo&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyaguptamo&show_icons=true&theme=default)
 
-
----
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyaguptamo&layout=compact)
 
 ## 🚀 Featured Projects
 
