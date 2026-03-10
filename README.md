@@ -23,11 +23,9 @@ Event Driven Programming
 
 ## 📊 GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=divyaguptamo&show_icons=true&theme=tokyonight" height="160"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyaguptamo&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyaguptamo&layout=compact&theme=tokyonight" height="160"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyaguptamo&layout=compact&theme=tokyonight)
 
 ## 🚀 Featured Projects
 
